@@ -45,7 +45,7 @@ results/
 !results/.gitkeep
 
 # Model artifacts
-model/
+model/*
 !model/.gitkeep
 !model/catboost_model.cbm
 !model/preprocessor.pkl
@@ -61,6 +61,6 @@ poetry.lock
 !pyproject.toml
 
 # Dist
-dist/
+dist/*
 !dist/*.whl
 !dist/*.tar.gz

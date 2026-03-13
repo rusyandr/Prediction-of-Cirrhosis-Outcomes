@@ -145,7 +145,7 @@ ls dist/
 # cirrhosis_prediction-0.1.0.tar.gz
 
 # Установка пакета
-pip install dist/cirrhosis_prediction-0.1.0-py3-none-any.whl
+pip install dist\prediction_of_cirrhosis_outcomes-0.1.0-py3-none-any.whl
 ```
 
 ## Структура проекта
