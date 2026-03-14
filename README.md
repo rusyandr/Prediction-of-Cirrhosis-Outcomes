@@ -1,6 +1,6 @@
 # Prediction-of-Cirrhosis-Outcomes
 
-**Студенты:** Chernikova Angelina & Agafonov Ruslan  
+**Студенты:** Чéрникова Ангелина и Агафонов Руслан   
 **Группа:** 972401
 
 ## Описание проекта
